@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-markets-flutter",
+  "capabilityKey": "planned:ecommerce:markets",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_markets_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/markets.md",
+  "presentationPlan": "projects/ecommerce/flutter/markets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
